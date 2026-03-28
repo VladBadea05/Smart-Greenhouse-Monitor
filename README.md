@@ -19,3 +19,4 @@ An automated monitoring system designed to track soil moisture and ambient tempe
 
 ## Learning Outcomes
 This project was a great hands-on experience with sensor calibration (mapping dry/wet values to 0-100%), voltage math, and writing clean, structured embedded C++ code.
+<img width="2133" height="953" alt="Sera Inteligenta" src="https://github.com/user-attachments/assets/01d6437a-3d26-4fcd-835e-e4670779fbe3" />
